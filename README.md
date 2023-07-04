@@ -15,6 +15,6 @@ In this project, MesoNet is used for deepfake detection. Below is brief explnati
 
 To run this project simply clone the repo and then:
      
-     pip install requirements.txt
+     pip install -r requirements.txt
 
 After installing libraries just run the master_notebook.ipynb and the project will run.    
