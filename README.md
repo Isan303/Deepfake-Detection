@@ -5,3 +5,4 @@
  🖼️ MesoNet is trained on a data set of extracted face images from existing deep fake videos.
  ⚙️ Understanding the data and its collection process is crucial for training machine learning models.
  🧪 The architecture of MesoNet consists of convolutional blocks and a fully connected hidden layer.
+
